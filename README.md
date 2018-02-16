@@ -20,7 +20,7 @@ Dependencies
 Files
 -----
 
-* OaiServerTools.py: 
+* OaiClient.py: 
 Interface with the OAI-PMH repository
 * OaiRecordHandling.py: 
 Basic manipulation of OAI records, extraction and transcription.
